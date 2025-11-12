@@ -1,3 +1,6 @@
+Preguntasaurus-Museo-APK
+Aplicación interactiva (APK) para stand en el Museo de La Plata [2017]
+
 # APLICACIÓN INTERACTIVA DE MUSEO | [Preguntasaurus - 2017]
 
 Aplicación interactiva (APK para dispositivos táctiles) desarrollada para un stand de exhibición en el Museo de Ciencias Naturales de La Plata.
