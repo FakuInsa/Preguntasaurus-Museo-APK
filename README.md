@@ -11,3 +11,4 @@ La aplicación gestiona un sistema de preguntas e información sobre la exhibici
 ## Software
 * C#
 * Unity Engine
+.----
